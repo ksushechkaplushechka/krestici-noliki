@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400">
+    <Grid>
+
+        <Button x:Name="Выход" Content="Exit" HorizontalAlignment="Left" Height="73" Margin="66,338,0,0" VerticalAlignment="Top" Width="122" Click="Выход_Click"/>
+        <Button x:Name="k3" Content="" HorizontalAlignment="Left" Height="85" Margin="269,33,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click_2"/>
+        <Button x:Name="k1" Content="" HorizontalAlignment="Left" Height="85" Margin="20,33,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click"/>
+        <Button x:Name="k2" Content="" HorizontalAlignment="Center" Height="85" Margin="0,33,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click_1"/>
+        <Button x:Name="k4" Content="" HorizontalAlignment="Left" Height="85" Margin="20,132,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click_3"/>
+        <Button x:Name="k5" Content="" HorizontalAlignment="Center" Height="85" Margin="0,132,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click_4"/>
+        <Button x:Name="k6" Content="" HorizontalAlignment="Left" Height="85" Margin="269,132,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click_5"/>
+        <Button x:Name="k7" Content="" HorizontalAlignment="Left" Height="85" Margin="20,231,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click_6"/>
+        <Button x:Name="k8" Content="" HorizontalAlignment="Center" Height="85" Margin="0,231,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click_7"/>
+        <Button x:Name="k9" Content="" HorizontalAlignment="Left" Height="85" Margin="269,231,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click_8"/>
+        <Button x:Name="knachalo" Content="Начало игры" HorizontalAlignment="Left" Height="73" Margin="205,338,0,0" VerticalAlignment="Top" Width="110" Click="knachalo_Click"/>
+
+    </Grid>
+</Window>
