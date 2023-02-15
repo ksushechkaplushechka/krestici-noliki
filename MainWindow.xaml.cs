@@ -120,55 +120,46 @@ namespace WpfApp4
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            k1.IsHitTestVisible = false;
             hod(sender);
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            k2.IsHitTestVisible = false;
             hod(sender);
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            k3.IsHitTestVisible = false;
             hod(sender);
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            k4.IsHitTestVisible = false;
             hod(sender);
         }
 
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
-            k5.IsHitTestVisible = false;
             hod(sender);
         }
 
         private void Button_Click_5(object sender, RoutedEventArgs e)
         {
-            k6.IsHitTestVisible = false;
             hod(sender);
         }
 
         private void Button_Click_6(object sender, RoutedEventArgs e)
         {
-            k7.IsHitTestVisible = false;
             hod(sender);
         }
 
         private void Button_Click_7(object sender, RoutedEventArgs e)
         {
-            k8.IsHitTestVisible = false;
             hod(sender);
         }
 
         private void Button_Click_8(object sender, RoutedEventArgs e)
         {
-            k9.IsHitTestVisible = false;
             hod(sender);
 
         }
